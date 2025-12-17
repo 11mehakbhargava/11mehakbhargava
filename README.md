@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @11mehakbhargava
-- 👀 I’m interested in reading books.
-- 🌱 I’m currently learning Java Programming
+
   
 
 <!---
